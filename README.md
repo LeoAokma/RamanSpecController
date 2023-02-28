@@ -1,4 +1,4 @@
-# SpecController
+# RamanSpecController
 GUI controlling software for Raman spectrometer
 
 ## About the project
